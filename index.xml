@@ -12,7 +12,7 @@
   <b:elseif cond='data:view.isSingleItem or data:view.isSearch or data:view.isArchive'/>
     <title><data:blog.pageName/> - <data:blog.title/></title>
     <meta expr:content='data:blog.pageName + " - " + data:blog.title' property='og:title'/>
-    <meta expr:content='data:blog.pageName + " - " + data:blog.title' property='og:image:alt'/>s
+    <meta expr:content='data:blog.pageName + " - " + data:blog.title' property='og:image:alt'/>
     <meta expr:content='data:blog.pageName + " - " + data:blog.title' name='twitter:title'/>
     <meta expr:content='data:blog.pageName + " - " + data:blog.title' name='twitter:image:alt'/>
   <b:elseif cond='data:view.isError'/>
