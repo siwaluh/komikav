@@ -67,14 +67,14 @@
   <meta expr:content='data:blog.url.canonical' property='og:url'/>
   
   <b:comment>AUTHOR</b:comment>
-  <meta content='Rahmat Hidayat' name='author'/>
-  <meta content='Rahmat Hidayat' property='article:author'/>
-  <link href='https://www.blogger.com/profile/11131198046075365419' rel='me'/>
-  <link href='https://www.blogger.com/profile/11131198046075365419' rel='author'/>
-  <link href='https://www.blogger.com/profile/11131198046075365419' rel='publisher'/>
-  <meta content='dayat.dayat.5454021' property='fb:admins'/>
-  <meta content='https://www.facebook.com/dayat.dayat.5454021' property='article:author'/>
-  <meta content='https://www.facebook.com/dayat.dayat.5454021' property='article:publisher'/>
+  <meta content='Author' name='author'/>
+  <meta content='Author' property='article:author'/>
+  <link href='https://www.blogger.com/profile/xxxxxxxxxxxxxxxxxxxx' rel='me'/>
+  <link href='https://www.blogger.com/profile/xxxxxxxxxxxxxxxxxxxx' rel='author'/>
+  <link href='https://www.blogger.com/profile/xxxxxxxxxxxxxxxxxxxx' rel='publisher'/>
+  <meta content='user' property='fb:admins'/>
+  <meta content='https://www.facebook.com/user' property='article:author'/>
+  <meta content='https://www.facebook.com/user' property='article:publisher'/>
   <!--<meta content='@' name='twitter:site'/>-->
   <!--<meta content='@' name='twitter:creator'/>-->
   
@@ -143,7 +143,7 @@
 <![CDATA[ /*
 <!-- Constants -->
 <Variable name="ssfont" description="Font System" type="font" default="400 14px Arial, sans-serif" value="400 14px Arial, sans-serif" hideEditor="true"/>
-<Variable name="body.background" description="Background" color="$(body.background.color)" type="background" default="$(color) none repeat scroll center center" value="$(color) url() no-repeat scroll center center /* Credit: Шош. Сом (https://www.dayat.id/) */;" hideEditor="true"/>
+<Variable name="body.background" description="Background" color="$(body.background.color)" type="background" default="$(color) none repeat scroll center center" value="$(color) url() no-repeat scroll center center /* Credit: Шош. Сом */;" hideEditor="true"/>
 <Variable name="body.text.font" description="Body Text Font" type="font" default="$(ssfont)" value="$(igniplexFont)" hideEditor="true"/>      
 <Variable name="body.link.color" description="Link color" type="color" default="$(ss.first.color)" value="$(ss.first.color)" hideEditor="true"/>
 <Variable name="posts.title.color" description="Post title color" type="color" default="$(body.text.color)" value="$(body.text.color)" hideEditor="true"/>
@@ -181,16 +181,15 @@
   <Variable name="border.color.dark" description="Border Color Dark" type="color" default="#36495b" value="#36495b"/>
 </Group> */
 /* ======================================
-KOMIKAV: Premium Blogger Theme - Designed by Шош. Сом (dayat.id)
+KOMIKAV: Premium Blogger Theme - Clone by Шош. Сом
 ======================================
 Name      : KOMIKAV Clone
 Version   : 1.0
 Date      : 16/03/2024
-Demo      : https://web.facebook.com/dayat.dayat.5454021/
+Demo      : https://komikav-clone.blogspot.com/
 Type      : Premium (Paid)
 Designer  : Шош. Сом
 Country   : Indonesia
-Website   : www.dayat.id
 ***************************************
 This theme is premium (paid).
 You can only get it by purchasing officially.
